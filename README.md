@@ -1,3 +1,6 @@
+# NOTE
+This is same as one of the open source zabbix-cachet open source repository but with few custom modifications.
+
 # Zabbix-Cachet
 This is python script which provide synchronisation between [Zabbix IT Services](https://www.zabbix.com/documentation/3.0/manual/it_services)
 and [Cachet](https://cachethq.io/)
